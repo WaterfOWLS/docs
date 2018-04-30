@@ -5,7 +5,7 @@
 * Jetson TX2, 192.168.0.20
 
 ### Wire Colors
-* We soldered new wires for compactibility, so these are the new colors
+* We soldered new wires for compactibility, so these are the new hardware wiring colors.
 * Servo motors - power (blue), control signal (orange), ground (brown)
 * LIDAR - power (red), SCL (green), SDA (blue), ground (orange)
 
